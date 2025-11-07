@@ -1,0 +1,21 @@
+{"phase": "train", "task": "nli", "epoch": 1, "loss": 1.0194916725158691}
+{"phase": "validation", "task": "nli", "epoch": 1, "accuracy": 0.5}
+{"phase": "test", "task": "nli", "accuracy": 0.5}
+{"phase": "train", "task": "nli", "epoch": 1, "loss": 0.7693261324413239}
+{"phase": "validation", "task": "nli", "epoch": 1, "accuracy": 0.508}
+{"phase": "test", "task": "nli", "accuracy": 0.5}
+{"phase": "train", "task": "nli", "epoch": 1, "loss": 0.7131137985085684}
+{"phase": "validation", "task": "nli", "epoch": 1, "accuracy": 0.666}
+{"phase": "test", "task": "nli", "accuracy": 0.666}
+{"phase": "train", "task": "nli", "epoch": 1, "loss": 0.710025132894516}
+{"phase": "train", "task": "nli", "epoch": 2, "loss": 0.6654634326696396}
+{"phase": "train", "task": "nli", "epoch": 3, "loss": 0.6500407922267913}
+{"phase": "train", "task": "nli", "epoch": 4, "loss": 0.6305401355028153}
+{"phase": "train", "task": "nli", "epoch": 5, "loss": 0.5531180870532989}
+{"phase": "train", "task": "nli", "epoch": 6, "loss": 0.4920874056220055}
+{"phase": "train", "task": "nli", "epoch": 7, "loss": 0.3762398159503937}
+{"phase": "train", "task": "nli", "epoch": 8, "loss": 0.3389022573828697}
+{"phase": "train", "task": "nli", "epoch": 9, "loss": 0.29903494611382486}
+{"phase": "train", "task": "nli", "epoch": 10, "loss": 0.2661670168116689}
+{"phase": "validation", "task": "nli", "epoch": 10, "accuracy": 0.716}
+{"phase": "test", "task": "nli", "accuracy": 0.67}

@@ -1,0 +1,5 @@
+{"premise": "John had 10 apples. He gave away 3.", "hypothesis": "John now has 7 apples.", "label": "entailment"}
+{"premise": "John had 10 apples. He gave away 3.", "hypothesis": "John now has 8 apples.", "label": "contradiction"}
+{"premise": "Mary had 5 books. She bought 4.", "hypothesis": "Mary has 9 books.", "label": "entailment"}
+{"premise": "Mary had 5 books. She bought 4.", "hypothesis": "Mary has 8 books.", "label": "contradiction"}
+
