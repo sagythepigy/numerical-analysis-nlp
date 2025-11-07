@@ -1,0 +1,185 @@
+{"masked": "you may take the subway back and forth to work <mask> days a week.", "target": 5.0}
+{"masked": "a <mask> door car has four entrances for passengers to enter.", "target": 4.0}
+{"masked": "the word children means <mask> or more kids.", "target": 2.0}
+{"masked": "each human hand almost always contains <mask> fingers, or four fingers and a thumb.", "target": 5.0}
+{"masked": "how do you win at tic-tac-toe get <mask> of your symbols in a row.", "target": 3.0}
+{"masked": "a bradypus torquatus is native to brazil and has <mask> toes on each limb.", "target": 3.0}
+{"masked": "a prime number are divisible by only two numbers, <mask> and itself.", "target": 1.0}
+{"masked": "reality is three dimensional real life, tv shows portray <mask> dimensional fake life.", "target": 2.0}
+{"masked": "a game of chess may have <mask> outcomes.", "target": 3.0}
+{"masked": "<mask> of the seven days of the week is saturday.", "target": 1.0}
+{"masked": "a square is a shape with <mask> equally lengthed sides.", "target": 4.0}
+{"masked": "with just <mask> days in office, francis michael forde was australia's shortest-serving prime minister.", "target": 8.0}
+{"masked": "a violin is a stringed instrument with <mask> strings.", "target": 4.0}
+{"masked": "a kid can count up to <mask> on one hand typically.", "target": 5.0}
+{"masked": "fifty is equal to <mask> times ten.", "target": 5.0}
+{"masked": "a banjo may have <mask> or five strings.", "target": 4.0}
+{"masked": "snowflake have <mask> sides.", "target": 6.0}
+{"masked": "boeing and lockheed are <mask> aeronautics companies.", "target": 2.0}
+{"masked": "a woman owns <mask> cat and two dogs. she needs to feed all three pets everyday.", "target": 1.0}
+{"masked": "we have <mask> fingers.", "target": 10.0}
+{"masked": "a triangle can be drawn from <mask> points.", "target": 3.0}
+{"masked": "a classical guitar has <mask> strings.", "target": 6.0}
+{"masked": "aggression can be used if <mask> ore more persons are in conflict.", "target": 2.0}
+{"masked": "golf courses differ from location to location, but all have <mask> to eighteen holes.", "target": 9.0}
+{"masked": "triceratops was a dinosaur that had <mask> horns on its head.", "target": 3.0}
+{"masked": "clams have evolved to have <mask> shells.", "target": 2.0}
+{"masked": "to strip wire, get a firm grip on wire winding it around your <mask> fingers, place hanging wire in a wire stripper, close and pull down.", "target": 4.0}
+{"masked": "motorcycle is a kind of vehicle with <mask> wheels.", "target": 2.0}
+{"masked": "an easel can have <mask> or four legs.", "target": 3.0}
+{"masked": "there are <mask> continents on our planet earth.", "target": 7.0}
+{"masked": "most motorcycles have <mask> tires.", "target": 2.0}
+{"masked": "usually a can of tennis balls has at least <mask> balls in it.", "target": 3.0}
+{"masked": "a triangle is a geometric shape that is made up of <mask> sides.", "target": 3.0}
+{"masked": "spiders have <mask> legs.", "target": 8.0}
+{"masked": "a family consists of at least <mask> people.", "target": 2.0}
+{"masked": "we have <mask> toes on each foot.", "target": 5.0}
+{"masked": "a proton is made of <mask> quarks.", "target": 3.0}
+{"masked": "a rectange is a closed shape with <mask> sides at right angles.", "target": 4.0}
+{"masked": "a person has two legs, <mask> ears, two eyes, one mouth and one head.", "target": 2.0}
+{"masked": "presidential elections are held every <mask> years in the us.", "target": 4.0}
+{"masked": "in a chess game it is very difficult to beat someone in <mask> moves.", "target": 7.0}
+{"masked": "a car seats usually <mask> to six passengers.", "target": 2.0}
+{"masked": "a game of chess includes <mask> bishops.", "target": 4.0}
+{"masked": "a triangle with <mask> equal sides is an equilateral triangle.", "target": 3.0}
+{"masked": "double means <mask> times.", "target": 2.0}
+{"masked": "people seem to need at least <mask> hours of sleep a night.", "target": 6.0}
+{"masked": "a map is a two-dimensional representation of a <mask> dimensional reality.", "target": 3.0}
+{"masked": "people have no more than <mask> legs.", "target": 2.0}
+{"masked": "barbershop quartet have <mask> voices.", "target": 4.0}
+{"masked": "a person has <mask> head.", "target": 1.0}
+{"masked": "a pair of pants is for one third of a <mask> piece suit.", "target": 3.0}
+{"masked": "zip code in the u.s. has five or <mask> digits.", "target": 9.0}
+{"masked": "there are <mask> hundred sixty five and one quarter days in an earth year.", "target": 3.0}
+{"masked": "clams are animals with <mask> shells.", "target": 2.0}
+{"masked": "there are <mask> types of rock.", "target": 3.0}
+{"masked": "any closed two-dimensional shape must have at least <mask> sides.", "target": 3.0}
+{"masked": "trumpet have <mask> valves.", "target": 3.0}
+{"masked": "quadrupeds have <mask> legs.", "target": 4.0}
+{"masked": "spring and summer are <mask> of four seasons.", "target": 2.0}
+{"masked": "bricks are <mask> sided.", "target": 6.0}
+{"masked": "a woman owns one cat and two dogs. she needs to feed all <mask> pets everyday.", "target": 3.0}
+{"masked": "most people have <mask> fingers.", "target": 10.0}
+{"masked": "a decade-long plan is something to do in the next <mask> years.", "target": 10.0}
+{"masked": "a person has <mask> legs.", "target": 2.0}
+{"masked": "there are <mask> major types of guitars: acoustic, electric and bass.", "target": 3.0}
+{"masked": "almost all people are born with <mask> eyebrows.", "target": 2.0}
+{"masked": "in the olympics, medals are awarded to the <mask> winners of each sport.", "target": 3.0}
+{"masked": "a modern government usually has at least <mask> branches.", "target": 3.0}
+{"masked": "a line is <mask> dimensional.", "target": 2.0}
+{"masked": "cats have <mask> ears.", "target": 2.0}
+{"masked": "a corner has <mask> sides.", "target": 2.0}
+{"masked": "a snowflake has <mask> sides.", "target": 6.0}
+{"masked": "the <mask> seasons are winter, spring, summer, and autumn.", "target": 4.0}
+{"masked": "a woman bought two cookies for her <mask> children. she gives a cookie to each child.", "target": 2.0}
+{"masked": "bobcats have <mask> legs.", "target": 4.0}
+{"masked": "mammals usually have <mask> limbs.", "target": 4.0}
+{"masked": "squares have <mask> equal sides.", "target": 4.0}
+{"masked": "date has <mask> people.", "target": 2.0}
+{"masked": "you are likely to find <mask> planets in the solar system.", "target": 8.0}
+{"masked": "oxygen molecules can be composed of <mask> atoms of oxygen.", "target": 2.0}
+{"masked": "normal dogs have <mask> legs.", "target": 4.0}
+{"masked": "almost no animal have <mask> legs.", "target": 3.0}
+{"masked": "a person wants to eat <mask> meals a day.", "target": 3.0}
+{"masked": "you use <mask> fingers for making a snap.", "target": 2.0}
+{"masked": "hexagons have <mask> sides.", "target": 6.0}
+{"masked": "a bicycle has two wheels, one handle bar, and <mask> pedals.", "target": 2.0}
+{"masked": "a painting is a <mask> dimensional piece of art made using paint.", "target": 2.0}
+{"masked": "there are <mask> years in a decade.", "target": 10.0}
+{"masked": "love has <mask> people.", "target": 2.0}
+{"masked": "an average human being has <mask> arms.", "target": 2.0}
+{"masked": "tabby cat have <mask> legs.", "target": 4.0}
+{"masked": "a restaurant table seats from <mask> to eight people.", "target": 2.0}
+{"masked": "a car has <mask> wheels and an internal combustion engine.", "target": 4.0}
+{"masked": "both composting and burning firewood are <mask> sustainable ways of living.", "target": 2.0}
+{"masked": "a human has <mask> legs and two arms.", "target": 2.0}
+{"masked": "arachnids are animals that have <mask> jointed legs, an exoskeleton, and a two-part body.", "target": 8.0}
+{"masked": "if you quarter a pie, you will have <mask> pieces of pie.", "target": 4.0}
+{"masked": "the bird landed on its <mask> feet.", "target": 2.0}
+{"masked": "there are <mask> great lakes in north america.", "target": 5.0}
+{"masked": "automobiles have <mask> tires.", "target": 4.0}
+{"masked": "humans require <mask> hours of sleep a night.", "target": 8.0}
+{"masked": "a chord is any simultaneous playing of <mask> or more notes.", "target": 3.0}
+{"masked": "dice is a kind of cubes with <mask> faces.", "target": 6.0}
+{"masked": "a dining table can usually have <mask> legs or a pedestal.", "target": 4.0}
+{"masked": "a spider has <mask> legs.", "target": 8.0}
+{"masked": "japan is an archipelago with <mask> major and many minor islands.", "target": 4.0}
+{"masked": "elephant have <mask> legs.", "target": 4.0}
+{"masked": "new zealand is a country with <mask> main islands.", "target": 2.0}
+{"masked": "normally people have <mask> legs.", "target": 2.0}
+{"masked": "canberra observatory have <mask> telescopes under domes.", "target": 4.0}
+{"masked": "rainbow have <mask> colors.", "target": 7.0}
+{"masked": "one whale plus one whale plus <mask> whale equals three whales.", "target": 1.0}
+{"masked": "each human hand has <mask> digits.", "target": 10.0}
+{"masked": "once every <mask> years is a leap year.", "target": 4.0}
+{"masked": "<mask> dimensions are length, width and height.", "target": 3.0}
+{"masked": "many college students earn a degree in <mask> years.", "target": 4.0}
+{"masked": "a chicken has <mask> legs.", "target": 2.0}
+{"masked": "the <mask> parties in american politics are the democrats and the republicans.", "target": 2.0}
+{"masked": "healthy human beings have <mask> fingers.", "target": 10.0}
+{"masked": "pregnancy lasts approximately <mask> or ten months.", "target": 9.0}
+{"masked": "rainbow have <mask> colours.", "target": 7.0}
+{"masked": "human beings have only <mask> neck bones.", "target": 7.0}
+{"masked": "a conventional bicycle has <mask> wheels, two pedals, and no motor.", "target": 2.0}
+{"masked": "a room consists of no less than <mask> walls, a floor, and a ceiling.", "target": 4.0}
+{"masked": "zip code in the u.s. has five or <mask> digits.", "target": 9.0}
+{"masked": "index card cabinets have <mask> 90 degree angles.", "target": 8.0}
+{"masked": "the <mask> cardinal points of the compass are north, south, east and west.", "target": 4.0}
+{"masked": "twins are <mask> identical children.", "target": 2.0}
+{"masked": "common table have <mask> side legs.", "target": 4.0}
+{"masked": "a cube has <mask> regular vertices.", "target": 8.0}
+{"masked": "a typical stairway has <mask> or more steps going up or down.", "target": 2.0}
+{"masked": "a water molecule has <mask> hydrogen atoms.", "target": 2.0}
+{"masked": "a triangle is a geometric figure with <mask> distinct sides.", "target": 3.0}
+{"masked": "the <mask> senses are sight, hearing, touch, smell and taste.", "target": 5.0}
+{"masked": "a bradypus torquatus is native to brazil and has <mask> clawed toes on each limb.", "target": 3.0}
+{"masked": "sarah was pregnant for around <mask> months in total.", "target": 9.0}
+{"masked": "people have <mask> arms.", "target": 2.0}
+{"masked": "most bicycles have <mask> wheels arranged in tandem.", "target": 2.0}
+{"masked": "people usually have <mask> toes on each of their feet.", "target": 5.0}
+{"masked": "a woman owns three cats and gives one of them away to her sister. she now owns only <mask> cats.", "target": 2.0}
+{"masked": "one dollar can be represented by <mask> dimes.", "target": 10.0}
+{"masked": "a proton is made of <mask> independent quarks.", "target": 3.0}
+{"masked": "antelope have <mask> legs.", "target": 4.0}
+{"masked": "a triangle has <mask> distinct corners.", "target": 3.0}
+{"masked": "a professor in math is answering a question. he answers two could be divided by <mask> plus one.", "target": 1.0}
+{"masked": "thirty usually are <mask> more than twenty.", "target": 10.0}
+{"masked": "a simple tripod has <mask> legs.", "target": 3.0}
+{"masked": "index card storage cabinets have <mask> 90 degree angles.", "target": 8.0}
+{"masked": "phobos orbits mars about once every <mask> square hours, much faster than mars' rotation.", "target": 7.0}
+{"masked": "a pentagon has <mask> sides.", "target": 5.0}
+{"masked": "winning a chess game in <mask> moves is very impressive.", "target": 7.0}
+{"masked": "one in <mask> also means a quarter.", "target": 4.0}
+{"masked": "the number six looks like a <mask> upside down.", "target": 9.0}
+{"masked": "a lobster lives on the ocean floor and has <mask> functional pairs of legs.", "target": 5.0}
+{"masked": "badminton is a game played by two or <mask> male players.", "target": 4.0}
+{"masked": "a leg table is a flat surface supported by <mask> or more legs.", "target": 3.0}
+{"masked": "earth have <mask> populated continents.", "target": 6.0}
+{"masked": "most people in the u.s. works <mask> consecutive hours in a business day.", "target": 8.0}
+{"masked": "snowflake have <mask> different sides.", "target": 6.0}
+{"masked": "a wall divides <mask> room into two rooms.", "target": 1.0}
+{"masked": "a convex hexagon is a closed shape with <mask> sides.", "target": 6.0}
+{"masked": "a large bouquet of flowers means a group of more than <mask> flowers.", "target": 2.0}
+{"masked": "a door has <mask> different sides.", "target": 4.0}
+{"masked": "scallops are animals that have <mask> internal shells and live on the ocean floor.", "target": 2.0}
+{"masked": "nothing with legs can stand on <mask> legs.", "target": 0.0}
+{"masked": "many jeeps are <mask> wheeled vehicles.", "target": 4.0}
+{"masked": "there are <mask> basic types of forces in the universe.", "target": 4.0}
+{"masked": "a human being has <mask> functional fingers on each hand.", "target": 5.0}
+{"masked": "a kangaroo kangaroo rat has <mask> legs for jumping.", "target": 2.0}
+{"masked": "a standard dice has <mask> sides.", "target": 6.0}
+{"masked": "once every <mask> odd years is a leap year.", "target": 4.0}
+{"masked": "a normal cube has <mask> corners.", "target": 8.0}
+{"masked": "having sex is usually an activity for <mask> people.", "target": 2.0}
+{"masked": "the <mask> cardinal virtues are faith, hope, love, prudence, justice, fortitude, and temperance.", "target": 7.0}
+{"masked": "if it does not have <mask> legs then it is not an insect.", "target": 6.0}
+{"masked": "a grid is a regular pattern in <mask> spatial dimensions.", "target": 2.0}
+{"masked": "all triangles have <mask> curved sides and three corners.", "target": 3.0}
+{"masked": "a set of standard poker card deck has fifty <mask> cards in four suites.", "target": 2.0}
+{"masked": "a pentagram has <mask> cardinal points in total.", "target": 10.0}
+{"masked": "liquid water becomes solid at a temperature of <mask> degrees centigrade, or 32 degrees fahrenheit.", "target": 0.0}
+{"masked": "airplanes have <mask> separate wings.", "target": 2.0}
+{"masked": "a typical conservation usually needs at least <mask> people.", "target": 2.0}
+{"masked": "<mask> of the largest national parks are in alaska.", "target": 7.0}
+{"masked": "a person's hand generally has <mask> normal fingers, including the thumb.", "target": 5.0}
+{"masked": "a french horn has <mask> keys.", "target": 3.0}
